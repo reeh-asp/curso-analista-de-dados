@@ -1,4 +1,4 @@
-#TABUADA 1 AO 20 COM A IDADE
+33#TABUADA 1 AO 20 COM A IDADE
 
 idade = int(input('Qual é a sua idade? '))
 
@@ -27,4 +27,4 @@ print('20 x',idade,'=',20*idade)
 
 
 ## O código acima irá efetuar o calculo da tabuada do 1 ao 20 com base na idade colocada na caixa de pergunta.
-Ao executar o código irá aparecer uma caixa de dialogo perguntando qual é a idade do usuário, após esse informar o dado, será efetuado o calculo da multiplicação de sua idade do 1 ao 20.
+## Ao executar o código irá aparecer uma caixa de dialogo perguntando qual é a idade do usuário, após esse informar o dado, será efetuado o calculo da multiplicação de sua idade do 1 ao 20.
